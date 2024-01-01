@@ -24,6 +24,7 @@
 # Contributions:
   Contributions are welcome! Feel free to fork this repository, make enhancements to the design, structure, or responsiveness using HTML and CSS, and create a pull request to collaborate and improve the project.
 
-# Note: This project is created primarily for learning purposes, demonstrating front-end development skills using HTML and CSS to create visually appealing product card designs.
+# Note: 
+  This project is created primarily for learning purposes, demonstrating front-end development skills using HTML and CSS to create visually appealing product card designs.
 
 # Explore and leverage this repository to enhance your HTML and CSS skills and craft captivating product card designs!
