@@ -13,6 +13,7 @@
   Responsive Design: Ensures adaptability across various devices and screen sizes for optimal user experience.
 
 # Preview:
+  ![productcard](https://github.com/SANJAYSS-SRM-26/Shoe-Product-Card-Design/blob/main/preview.jpg)
 
 
 # Usage:
